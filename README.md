@@ -1,4 +1,4 @@
-<h2>Hey there! I'm Muadh 👋</h2>
+<h2>MUADH KHAN</h2>
 
 I'm studying Computer Science (Co-op) @ Toronto Metropolitan University.
 
