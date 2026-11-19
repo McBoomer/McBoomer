@@ -55,10 +55,7 @@ If you want to build something cool with me, reach out on [LinkedIn](https://www
 
 <img src="https://skills.syvixor.com/api/icons?i=linux,git,github,nodejs,npm,unity,shopify,googlesheets,visualstudiocode" alt="Tools and Platforms" />
 
+
+
+
 ---
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=McBoomer&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
-</p>
