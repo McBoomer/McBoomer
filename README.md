@@ -18,7 +18,7 @@ I started programming at 14 and haven't stopped building since. Right now I'm go
 **Here's a tl;dr about me:**
 
 - 🤖 Integrating agentic AI into resume parsing & job matching @ **HiTech Clouds**, which cut client onboarding time by **~55%**
-- 🚀 Building **modelshift**, a startup that migrates LLM apps between models and auto-repairs prompts
+- 🚀 Building **modelshift**, a tool that migrates LLM apps between models and auto-repairs prompts
 - 🔍 Building a **differential runtime analysis tool for MCP servers** (Node.js → Rust)
 - 🏦 Worked with **RBC's fraud detection team** on an AI-supported fraud investigation training platform
 - 🧠 Trained a CNN on 7,000+ brain MRIs to classify tumours (**TumorVision AI**)
