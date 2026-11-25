@@ -5,7 +5,7 @@
 <p align="center">
   <b>Muadh Khan</b> · Systems & Software Engineer
   <br/>
-  <sub>C/C++ · Systems Programming · Concurrency · CPU Architecture · Performance Engineering</sub>
+  <sub><b>C / C++ · Systems Programming · Concurrency · CPU Architecture</b></sub>
   <br/>
   <sub>Second-year Computer Science student at Toronto Metropolitan University</sub>
   <br/>
