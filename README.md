@@ -9,7 +9,7 @@
   <br/>
   <sub>Second-year Computer Science student at Toronto Metropolitan University</sub>
   <br/>
-  <sub>Currently grinding LeetCode in Python & C++.</sub>
+  <sub>DSA in Python & C++.</sub>
 </p>
 
 <p align="center">
