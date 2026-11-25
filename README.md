@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mcboomer">GitHub</a> ·
+  <a href="https://linkedin.com/in/muadhkhan">LinkedIn</a> ·
   <a href="https://muadhkhan.vercel.app">Website</a>
 </p>
 
