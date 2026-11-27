@@ -5,7 +5,7 @@
 <p align="center">
   <b>Muadh Khan</b> · Systems & Software Engineer
   <br/>
-  <sub><b>Currently reading A Tour of c++ (3rd) & The Art of Writing Efficient Programs</b></sub>
+  <sub><b>Currently reading A Tour of C++ (3rd) & The Art of Writing Efficient Programs</b></sub>
   <br/>
   <sub>Second-year Computer Science student at Toronto Metropolitan University</sub>
   <br/>
